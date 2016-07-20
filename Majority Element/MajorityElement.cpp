@@ -8,7 +8,7 @@ using namespace std;
  *  Space Complexity : O(1)
  */
 
-vector<int> RemoveDuplicates(vector<int>& nums) 
+vector<int> MajorityElement(vector<int>& nums) 
 {
     vector<int> result;
 
